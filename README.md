@@ -1,7 +1,8 @@
 # MiniLappisConf
 
-MiniLappisConf é um evento experimental realizado semanalmente no laboratório
-Lappis para troca de conhecimento, divulgação, treinamento e experimentação.
+MiniLappisConf é um evento realizado semanalmente (segunda-feira, de 17h até
+19h) no laboratório Lappis para troca de conhecimento, divulgação, treinamento
+e experimentação.
 
 ## Próximo evento
 
