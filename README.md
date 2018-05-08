@@ -4,18 +4,11 @@ MiniLappisConf é um evento realizado semanalmente (segunda-feira, de 17h até
 19h) no laboratório Lappis para troca de conhecimento, divulgação, treinamento
 e experimentação.
 
+É importante mencionar que apesar do Lappis ser um laboratório de desenvolvimento de software,
+estamos abertos ao mais diversos assuntos! Desde como fazer um instrumento musical utilizando
+legumes até a criação de jogos.
+
 ## Próximo evento
-
-### Segunda-feira, 07 de maio de 2018, 17h
-
-| Palestrante     | Tema                                    | Duração |
-| --------------- | --------------------------------------- | ------- |
-| Henrique Campos | Roasting Unity                          | 30 min  |
-| Luciano Prestes | Blender                                 | 30 min  |
-| Matheus Faria   | Unity                                   | 30 min  |
-| Arthur Jahn     | NGINX e domínios mútiplos               | 30 min  |
-
-## Próximos eventos
 
 ### Segunda-feira, 14 de maio de 2018, 17h
 
@@ -25,7 +18,8 @@ e experimentação.
 | Arthur Temporim | Conhecimento empírico em Arch Linux     | 30 min  |
 | Arthur Diniz    | Aplicações nativas com Flutter          | 30 min  |
 | Vitor Falcão    | CTF - Hack the world                    | 30 min  |
-| ???             | ???                                     | 30 min  |
+
+## Próximos eventos
 
 ### Segunda-feira, 21 de maio de 2018, 17h
 
@@ -49,9 +43,18 @@ e experimentação.
 
 ## Eventos passados
 
+### Segunda-feira, 07 de maio de 2018, 17h
+
+| Palestrante     | Tema                                    | Duração |
+| --------------- | --------------------------------------- | ------- |
+| Henrique Campos | Roasting Unity                          | 30 min  |
+| Luciano Prestes | Blender                                 | 30 min  |
+| Matheus Faria   | Unity                                   | 30 min  |
+| Arthur Jahn     | NGINX e domínios mútiplos               | 30 min  |
+
 ### Segunda-feira, 30 de abril de 2018, 17h
 
-**não haverá palestra neste dia por conta do feriado terça-feira dia 01 de maio**
+**não houve palestra neste dia por conta do feriado terça-feira dia 01 de maio**
 
 ### Segunda-feira, 23 de abril de 2018, 17h
 
