@@ -33,6 +33,10 @@ legumes até a criação de jogos.
 
 ### Segunda-feira, 28 de maio de 2018, 17h
 
+**SuperLappisConf** = arte + engenharia de software
+
+### Segunda-feira, 04 de junho de 2018, 17h
+
 | Palestrante     | Tema                                    | Duração |
 | --------------- | --------------------------------------- | ------- |
 | ???             | ???                                     | 30 min  |
