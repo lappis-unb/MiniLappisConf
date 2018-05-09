@@ -16,8 +16,8 @@ legumes até a criação de jogos.
 | --------------- | --------------------------------------- | ------- |
 | Heloise Cullen  | Net Art                                 | 30 min  |
 | Arthur Temporim | Conhecimento empírico em Arch Linux     | 30 min  |
-| Arthur Diniz    | Aplicações nativas com Flutter          | 30 min  |
 | Vitor Falcão    | CTF - Hack the world                    | 30 min  |
+| Arthur Jahn     | NGINX e domínios mútiplos               | 30 min  |
 
 ## Próximos eventos
 
@@ -30,6 +30,7 @@ legumes até a criação de jogos.
 | Heloise Cullen  | Design e Usabilidade                    | 30 min  |
 | ???             | ???                                     | 30 min  |
 | ???             | ???                                     | 30 min  |
+| Arthur Diniz    | Aplicações nativas com Flutter          | 30 min  |
 
 ### Segunda-feira, 28 de maio de 2018, 17h
 
@@ -54,7 +55,6 @@ legumes até a criação de jogos.
 | Henrique Campos | Roasting Unity                          | 30 min  |
 | Luciano Prestes | Blender                                 | 30 min  |
 | Matheus Faria   | Unity                                   | 30 min  |
-| Arthur Jahn     | NGINX e domínios mútiplos               | 30 min  |
 
 ### Segunda-feira, 30 de abril de 2018, 17h
 
