@@ -10,31 +10,23 @@ legumes até a criação de jogos.
 
 ## Próximo evento
 
-### Segunda-feira, 14 de maio de 2018, 17h
-
-| Palestrante     | Tema                                    | Duração |
-| --------------- | --------------------------------------- | ------- |
-| Heloise Cullen  | Net Art                                 | 30 min  |
-| Arthur Temporim | Conhecimento empírico em Arch Linux     | 30 min  |
-| Vitor Falcão    | CTF - Hack the world                    | 30 min  |
-| Arthur Jahn     | NGINX e domínios mútiplos               | 30 min  |
-
-## Próximos eventos
-
 ### Segunda-feira, 21 de maio de 2018, 17h
 
 | Palestrante     | Tema                                    | Duração |
 | --------------- | --------------------------------------- | ------- |
-| Luan            | Sintetizador de som com Puredata        | 30 min  |
 | Valéssio Brito  | ?                                       | 30 min  |
 | Heloise Cullen  | Design e Usabilidade                    | 30 min  |
-| ???             | ???                                     | 30 min  |
-| ???             | ???                                     | 30 min  |
+| Navarro         | Introdução a Aquarela                   | 30 min  |
 | Arthur Diniz    | Aplicações nativas com Flutter          | 30 min  |
+
+## Próximos eventos
 
 ### Segunda-feira, 28 de maio de 2018, 17h
 
-**SuperLappisConf** = arte + engenharia de software
+| Palestrante     | Tema                                    | Duração |
+| --------------- | --------------------------------------- | ------- |
+| Luan            | Sintetizador de som com Puredata        | 30 min  |
+| ???             | ???                                     | 30 min  |
 
 ### Segunda-feira, 04 de junho de 2018, 17h
 
@@ -47,6 +39,15 @@ legumes até a criação de jogos.
 | ???             | ???                                     | 30 min  |
 
 ## Eventos passados
+
+### Segunda-feira, 14 de maio de 2018, 17h
+
+| Palestrante     | Tema                                    | Duração |
+| --------------- | --------------------------------------- | ------- |
+| Heloise Cullen  | Net Art                                 | 30 min  |
+| Arthur Temporim | Conhecimento empírico em Arch Linux     | 30 min  |
+| Vitor Falcão    | CTF - Hack the world                    | 30 min  |
+| Arthur Jahn     | NGINX e domínios mútiplos               | 30 min  |
 
 ### Segunda-feira, 07 de maio de 2018, 17h
 
