@@ -1,0 +1,63 @@
+---
+title: Eventos passados
+---
+
+### Segunda-feira, 26 de março de 2018, 17h
+
+| Palestrante     | Tema                                   | Duração |
+| --------------- | -------------------------------------- | ------- |
+| Edson Ma        | Como construir seu instrumento musical | 30 min  |
+| Fábio Mendes    | FGAme                                  | 30 min  |
+| Ricardo Poppi   | Máquina de Anticítera                  | 20 min  |
+| Jonathan Moraes | Paradigma funcional e Elixir           | 30 min  |
+
+### Segunda-feira, 02 de abril de 2018, 17h
+
+| Palestrante     | Tema                         | Duração |
+| --------------- | ---------------------------- | ------- |
+| Jonathan Moraes | Integração Gitlab e Github   | 30 min  |
+| Milene          | Computação Ubíqua            | 30 min  |
+| Bruna Moreira   | Inkscape for Dummies         | 30 min  |
+
+### Segunda-feira, 09 de abril de 2018, 17h
+
+| Palestrante     | Tema                               | Duração |
+| --------------- | ---------------------------------- | ------- |
+| Carla Rocha     | Reconstrução 3D                    | 30 min  |
+| Izabela Cardoso | Tecnologias na Netflix             | 30 min  |
+| Marcos Ronaldo  | Uso básico dos componentes Android | 30 min  |
+
+### Segunda-feira, 16 de abril de 2018, 17h
+
+| Palestrante     | Tema                                    | Duração |
+| --------------- | --------------------------------------- | ------- |
+| David Carlos    | Introdução a Web Components com Polymer | 30 min  |
+| Arthur Jahn     | PRPL Pattern e estratégias para servir progressive web applications | 30 min |
+| Fabiana Goa     | GNU Health                              | 30 min  |
+
+### Segunda-feira, 23 de abril de 2018, 17h
+
+| Palestrante     | Tema                                    | Duração |
+| --------------- | --------------------------------------- | ------- |
+| Jonathan Moraes | Siltzkey                                | 60 min  |
+
+### Segunda-feira, 30 de abril de 2018, 17h
+
+**não houve palestra neste dia por conta do feriado terça-feira dia 01 de maio**
+
+### Segunda-feira, 07 de maio de 2018, 17h
+
+| Palestrante     | Tema                                    | Duração |
+| --------------- | --------------------------------------- | ------- |
+| Henrique Campos | Roasting Unity                          | 30 min  |
+| Luciano Prestes | Blender                                 | 30 min  |
+| Matheus Faria   | Unity                                   | 30 min  |
+
+### Segunda-feira, 14 de maio de 2018, 17h
+
+| Palestrante     | Tema                                    | Duração |
+| --------------- | --------------------------------------- | ------- |
+| Heloise Cullen  | Net Art                                 | 30 min  |
+| Arthur Temporim | Conhecimento empírico em Arch Linux     | 30 min  |
+| Vitor Falcão    | CTF - Hack the world                    | 30 min  |
+| Arthur Jahn     | NGINX e domínios mútiplos               | 30 min  |
