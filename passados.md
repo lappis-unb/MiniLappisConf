@@ -2,6 +2,8 @@
 title: Eventos passados
 ---
 
+## Março 2018
+
 ### Segunda-feira, 26 de março de 2018, 17h
 
 | Palestrante     | Tema                                   | Duração |
@@ -10,6 +12,8 @@ title: Eventos passados
 | Fábio Mendes    | FGAme                                  | 30 min  |
 | Ricardo Poppi   | Máquina de Anticítera                  | 20 min  |
 | Jonathan Moraes | Paradigma funcional e Elixir           | 30 min  |
+
+## Abril 2018
 
 ### Segunda-feira, 02 de abril de 2018, 17h
 
@@ -45,6 +49,8 @@ title: Eventos passados
 
 **não houve palestra neste dia por conta do feriado terça-feira dia 01 de maio**
 
+## Maio 2018
+
 ### Segunda-feira, 07 de maio de 2018, 17h
 
 | Palestrante     | Tema                                    | Duração |
@@ -61,3 +67,10 @@ title: Eventos passados
 | Arthur Temporim | Conhecimento empírico em Arch Linux     | 30 min  |
 | Vitor Falcão    | CTF - Hack the world                    | 30 min  |
 | Arthur Jahn     | NGINX e domínios mútiplos               | 30 min  |
+
+### Segunda-feira, 21 de maio de 2018, 17h
+
+| Palestrante     | Tema                                    | Duração |
+| --------------- | --------------------------------------- | ------- |
+| Navarro         | Introdução a Aquarela                   | 30 min  |
+| Arthur Diniz    | Aplicações nativas com Flutter          | 30 min  |
