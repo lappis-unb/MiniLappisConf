@@ -6,14 +6,15 @@ MiniLappisConf é um evento realizado semanalmente (segunda-feira, de 17h até
 19h) no laboratório Lappis para troca de conhecimento, divulgação, treinamento
 e experimentação.
 
-# Próximo evento
+## Próximo evento
 
-## Segunda-feira, 21 de maio de 2018, 17h
+### Segunda-feira, 28 de maio de 2018, 17h
 
 | Palestrante     | Tema                                    | Duração |
 | --------------- | --------------------------------------- | ------- |
-| Navarro         | Introdução a Aquarela                   | 30 min  |
-| Arthur Diniz    | Aplicações nativas com Flutter          | 30 min  |
+| Luan            | Sintetizador de som com Puredata        | 30 min  |
+| Heloise Cullen  | Design e Usabilidade                    | 30 min  |
+| Joenio Costa    | Jogos FPS Livres                        | 30 min  |
 
 <br/>
 É importante mencionar que apesar do Lappis ser um laboratório de
@@ -23,4 +24,6 @@ como fazer um instrumento musical utilizando legumes até a criação de jogos.
 Veja a lista de <a href="{{ site.baseurl }}/passados">eventos passados</a> e
 a agenda dos <a href="{{ site.baseurl }}/agenda">próximos eventos</a>.
 
-Deseja contribuir? Quer palestrar? Envie um Pull-Request [https://github.com/lappis-unb/minilappisconf](https://github.com/lappis-unb/minilappisconf)
+Deseja contribuir? Quer palestrar? Envie um pull-request ou abra uma issue no
+repositório do evento
+[https://github.com/lappis-unb/minilappisconf](https://github.com/lappis-unb/minilappisconf)
