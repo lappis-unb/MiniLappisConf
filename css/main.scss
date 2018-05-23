@@ -64,8 +64,13 @@ table {
 table th,
 table td {
   border: 1px solid gray;
+  padding: 2px 5px;
 }
 
 .post-content h3 {
   margin-top: 20px;
+}
+
+.post-content h2 {
+  margin-top: 30px;
 }
