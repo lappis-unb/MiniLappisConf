@@ -20,7 +20,7 @@ e experimentação.
 desenvolvimento de software, estamos abertos aos mais diversos assuntos! Desde
 como fazer um instrumento musical utilizando legumes até a criação de jogos.
 
-Veja a lista de <a href="{{ site.baseurl }}passados">eventos passados</a> e
-a agenda dos <a href="{{ site.baseurl }}agenda">próximos eventos</a>.
+Veja a lista de <a href="{{ site.baseurl }}/passados">eventos passados</a> e
+a agenda dos <a href="{{ site.baseurl }}/agenda">próximos eventos</a>.
 
-Deseja contribuir? Quer palestrar? [https://github.com/lappis-unb/minilappisconf](https://github.com/lappis-unb/minilappisconf)
+Deseja contribuir? Quer palestrar? Envie um Pull-Request [https://github.com/lappis-unb/minilappisconf](https://github.com/lappis-unb/minilappisconf)
