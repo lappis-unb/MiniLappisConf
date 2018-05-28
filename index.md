@@ -8,13 +8,13 @@ e experimentação.
 
 ## Próximo evento
 
-### Segunda-feira, 28 de maio de 2018, 17h
+### Segunda-feira, 04 de junho de 2018, 17h
 
 | Palestrante     | Tema                                    | Duração |
 | --------------- | --------------------------------------- | ------- |
 | Luan            | Sintetizador de som com Puredata        | 30 min  |
-| Heloise Cullen  | Design e Usabilidade                    | 30 min  |
 | Joenio Costa    | Jogos FPS Livres                        | 30 min  |
+| Marcela         | Táticas de mobilização em torno de um produto de software de participação | 30 min |
 
 <br/>
 É importante mencionar que apesar do Lappis ser um laboratório de

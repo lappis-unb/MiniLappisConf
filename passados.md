@@ -74,3 +74,7 @@ title: Eventos passados
 | --------------- | --------------------------------------- | ------- |
 | Navarro         | Introdução a Aquarela                   | 30 min  |
 | Arthur Diniz    | Aplicações nativas com Flutter          | 30 min  |
+
+### Segunda-feira, 28 de maio de 2018, 17h
+
+**evento cancelado por conta da greve dos combustíveis**
