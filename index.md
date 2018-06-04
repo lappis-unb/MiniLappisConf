@@ -12,7 +12,6 @@ e experimentação.
 
 | Palestrante     | Tema                                    | Duração |
 | --------------- | --------------------------------------- | ------- |
-| Luan            | Sintetizador de som com Puredata        | 30 min  |
 | Joenio Costa    | Jogos FPS Livres                        | 30 min  |
 | Marcela         | Táticas de mobilização em torno de um produto de software de participação | 30 min |
 
