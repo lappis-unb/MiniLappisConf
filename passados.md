@@ -78,3 +78,12 @@ title: Eventos passados
 ### Segunda-feira, 28 de maio de 2018, 17h
 
 **evento cancelado por conta da greve dos combustíveis**
+
+## Junho 2018
+
+### Segunda-feira, 04 de junho de 2018, 17h
+
+| Palestrante     | Tema                                    | Duração |
+| --------------- | --------------------------------------- | ------- |
+| Joenio Costa    | Jogos FPS Livres - [slides](http://joenio.me/jogos-fps-livres) | 30 min  |
+| Marcela         | Táticas de mobilização em torno de um produto de software de participação | 30 min |
