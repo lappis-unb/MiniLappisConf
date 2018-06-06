@@ -13,7 +13,7 @@ e experimentação.
 | Palestrante     | Tema                                    | Duração |
 | --------------- | --------------------------------------- | ------- |
 | Heloise Cullen  | Design e Usabilidade                    | 30 min  |
-| Luan            | Sintetizador de som com Puredata        | 30 min  |
+| Luan            | Pandocker                               | 30 min  |
 
 <br/>
 É importante mencionar que apesar do Lappis ser um laboratório de
