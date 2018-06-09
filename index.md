@@ -15,6 +15,7 @@ e experimentação.
 | Heloise Cullen  | Design e Usabilidade                    | 30 min  |
 | Luan            | Pandocker                               | 30 min  |
 | Joenio Costa    | Gerenciando senhas com GnuPG            | 10 min  |
+| Orc'estra       | Gamificação                             | 30 min  |
 
 <br/>
 É importante mencionar que apesar do Lappis ser um laboratório de
