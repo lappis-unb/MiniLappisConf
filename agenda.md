@@ -6,8 +6,9 @@ title: Próximos eventos
 
 | Palestrante     | Tema                                    | Duração |
 | --------------- | --------------------------------------- | ------- |
+| Bruna Moreira   | Criando molduras com cartolina          | 30 min  |
 | ???             | ???                                     | 30 min  |
 | ???             | ???                                     | 30 min  |
 | ???             | ???                                     | 30 min  |
 | ???             | ???                                     | 30 min  |
-| ???             | ???                                     | 30 min  |
+
