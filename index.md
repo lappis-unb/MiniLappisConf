@@ -15,7 +15,7 @@ e experimentação.
 | Heloise Cullen  | Design e Usabilidade                    | 30 min  |
 | Luan            | Pandocker                               | 30 min  |
 | Orc'estra       | Gamificação                             | 30 min  |
-| Henrique Parra  | Co-prodoução de TICs com o Estado       | 30 min  |
+| Henrique Parra  | Co-produção de TICs com o Estado        | 30 min  |
 
 <br/>
 É importante mencionar que apesar do Lappis ser um laboratório de
