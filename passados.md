@@ -93,3 +93,12 @@ title: Eventos passados
 | --------------- | --------------------------------------- | ------- |
 | Joenio Costa    | Jogos FPS Livres - [slides](http://joenio.me/jogos-fps-livres) | 30 min  |
 | Marcela         | Táticas de mobilização em torno de um produto de software de participação | 30 min |
+
+### Segunda-feira, 11 de junho de 2018, 17h
+
+| Palestrante     | Tema                                    | Duração |
+| --------------- | --------------------------------------- | ------- |
+| Heloise Cullen  | Design e Usabilidade                    | 30 min  |
+| Luan            | Pandocker                               | 30 min  |
+| Orc'estra       | Gamificação                             | 30 min  |
+| Henrique Parra  | Co-produção de TICs com o Estado        | 30 min  |

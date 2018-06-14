@@ -6,10 +6,7 @@ title: Próximos eventos
 
 | Palestrante     | Tema                                    | Duração |
 | --------------- | --------------------------------------- | ------- |
-| Bruna Moreira   | Criando molduras com cartolina          | 30 min  |
-| Joenio Costa    | Gerenciando senhas com GnuPG            | 10 min  |
 | ???             | ???                                     | 30 min  |
 | ???             | ???                                     | 30 min  |
 | ???             | ???                                     | 30 min  |
 | ???             | ???                                     | 30 min  |
-

@@ -8,14 +8,14 @@ e experimentação.
 
 ## Próximo evento
 
-### Segunda-feira, 11 de junho de 2018, 17h
+### Segunda-feira, 18 de junho de 2018, 17h
 
 | Palestrante     | Tema                                    | Duração |
 | --------------- | --------------------------------------- | ------- |
-| Heloise Cullen  | Design e Usabilidade                    | 30 min  |
-| Luan            | Pandocker                               | 30 min  |
-| Orc'estra       | Gamificação                             | 30 min  |
-| Henrique Parra  | Co-produção de TICs com o Estado        | 30 min  |
+| Bruna Moreira   | Criando molduras com cartolina          | 30 min  |
+| Joenio Costa    | Gerenciando senhas com GnuPG            | 10 min  |
+| Carla           | Arte + Tecnologia                       | 30 min  |
+| Edson Ma        | Como partitura musical em LATEX         | 30 min  |
 
 <br/>
 É importante mencionar que apesar do Lappis ser um laboratório de
