@@ -79,7 +79,7 @@ title: Eventos passados
 | Palestrante     | Tema                                    | Duração |
 | --------------- | --------------------------------------- | ------- |
 | Navarro         | Introdução a Aquarela                   | 30 min  |
-| Arthur Diniz    | Aplicações nativas com Flutter [slides (pdf)](/slides/flutter/Flutter Lappis Conf.pdf) [slides (google drive)](https://docs.google.com/presentation/d/1z08qIcuaRF0_dnMScFvAt-h0eo8-34Xub1UrlZdWlqU/edit?usp=sharing) | 30 min  |
+| Arthur Diniz    | Aplicações nativas com Flutter [slides (pdf)](slides/flutter/Flutter Lappis Conf.pdf) [slides (google drive)](https://docs.google.com/presentation/d/1z08qIcuaRF0_dnMScFvAt-h0eo8-34Xub1UrlZdWlqU/edit?usp=sharing) | 30 min  |
 
 ### Segunda-feira, 28 de maio de 2018, 17h
 
@@ -92,7 +92,7 @@ title: Eventos passados
 | Palestrante     | Tema                                    | Duração |
 | --------------- | --------------------------------------- | ------- |
 | Joenio Costa    | Jogos FPS Livres - [slides](http://joenio.me/jogos-fps-livres) | 30 min  |
-| Marcela         | Táticas de mobilização em torno de um produto de software de participação | 30 min |
+| Marcela         | Táticas de mobilização em torno de um produto de software de participação [slides (pdf)](slides/Apresentacao_CPA_Taticas_de_Mobilizacao.pdf) | 30 min |
 
 ### Segunda-feira, 11 de junho de 2018, 17h
 
