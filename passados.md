@@ -70,7 +70,7 @@ title: Eventos passados
 | Palestrante     | Tema                                    | Duração |
 | --------------- | --------------------------------------- | ------- |
 | Heloise Cullen  | Net Art                                 | 30 min  |
-| Arthur Temporim | Conhecimento empírico em Arch Linux     | 30 min  |
+| Arthur Temporim | Conhecimento empírico em Arch Linux [slides (pdf)](slides/arch/archLinux.pdf) | 30 min  |
 | Vitor Falcão    | CTF - Hack the world                    | 30 min  |
 | Arthur Jahn     | NGINX e domínios mútiplos               | 30 min  |
 
