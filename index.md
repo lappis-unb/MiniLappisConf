@@ -13,8 +13,7 @@ e experimentação.
 | Palestrante     | Tema                                    | Duração |
 | --------------- | --------------------------------------- | ------- |
 | Bruna Moreira   | Criando molduras com cartolina          | 30 min  |
-| Joenio Costa    | Gerenciando senhas com GnuPG            | 10 min  |
-| Carla           | Arte + Tecnologia                       | 30 min  |
+| Carla e Joenio  | Arte + Tecnologia                       | 30 min  |
 | Edson Ma        | Partitura musical com Lilypond          | 30 min  |
 
 <br/>
