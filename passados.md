@@ -98,7 +98,7 @@ title: Eventos passados
 
 | Palestrante     | Tema                                    | Duração |
 | --------------- | --------------------------------------- | ------- |
-| Heloise Cullen  | Design e Usabilidade                    | 30 min  |
+| Heloise Cullen  | Design e Usabilidade [slides (pdf)](slides/Heloise_Design_Interacao_Usabilidade.pdf) | 30 min  |
 | Luan            | Pandocker                               | 30 min  |
 | Orc'estra       | Gamificação                             | 30 min  |
 | Henrique Parra  | Co-produção de TICs com o Estado        | 30 min  |
