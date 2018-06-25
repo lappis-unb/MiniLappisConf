@@ -7,7 +7,5 @@ title: Próximos eventos
 | Palestrante     | Tema                                    | Duração |
 | --------------- | --------------------------------------- | ------- |
 | Joenio Costa    | Gerenciando senhas com GnuPG            | 10 min  |
-| Bruna Moreira   | Molduras de papel - Arte na sua parede  | 30 min  |
-| Bruna Moreira   | Gamificação no EJ                       | 30 min  |
 | ???             | ???                                     | 30 min  |
 | ???             | ???                                     | 30 min  |
