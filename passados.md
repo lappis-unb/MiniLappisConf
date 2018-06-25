@@ -16,7 +16,7 @@ title: Eventos passados
 | --------------- | -------------------------------------- | ------- |
 | Edson Ma        | Como construir seu instrumento musical | 30 min  |
 | Fábio Mendes    | FGAme                                  | 30 min  |
-| Ricardo Poppi   | Máquina de Anticítera                  | 20 min  |
+| Ricardo Poppi   | Máquina de Anticítera [slides (pdf)](slides/Apresentacao_Poppi_palestralappisconf_mecanismo de_anticitera.pdf)                 | 20 min  |
 | Jonathan Moraes | Paradigma funcional e Elixir           | 30 min  |
 
 ## Abril 2018
@@ -101,7 +101,7 @@ title: Eventos passados
 | Heloise Cullen  | Design e Usabilidade [slides (pdf)](slides/Heloise_Design_Interacao_Usabilidade.pdf) | 30 min  |
 | Luan            | Pandocker                               | 30 min  |
 | Orc'estra       | Gamificação                             | 30 min  |
-| Henrique Parra  | Co-produção de TICs com o Estado        | 30 min  |
+| Henrique Parra  | Co-produção de TICs com o Estado [slides (pdf)](slides/Apresentacao_Henrique_Parra_Parra_PPT_DEFESA.odp)       | 30 min  |
 
 ### Segunda-feira, 18 de junho de 2018, 17h
 
