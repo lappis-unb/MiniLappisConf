@@ -109,3 +109,9 @@ title: Eventos passados
 | --------------- | --------------------------------------- | ------- |
 | Carla e Joenio  | Arte + Tecnologia [proposta (png)](slides/arte_tecnologia_manifesto.png) | 30 min  |
 | Edson Ma        | Partitura musical com Lilypond [slides (pdf)](slides/lilypond/Lilypond_and_music.pdf) | 30 min  |
+
+### Segunda-feira, 25 de junho de 2018, 17h
+
+| Palestrante     | Tema                                    | Duração |
+| --------------- | --------------------------------------- | ------- |
+| Bruna Moreira   | Gamificação no EJ                       | 30 min  |
