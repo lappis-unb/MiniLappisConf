@@ -7,6 +7,7 @@ title: Eventos passados
   * [Abril](#abril-2018)
   * [Maio](#maio-2018)
   * [Junho](#junho-2018)
+  * [Julho](#julho-2018)
 
 ## Março 2018
 
@@ -115,3 +116,13 @@ title: Eventos passados
 | Palestrante     | Tema                                    | Duração |
 | --------------- | --------------------------------------- | ------- |
 | Bruna Moreira   | Gamificação no EJ                       | 30 min  |
+
+## Julho 2018
+
+### Segunda-feira, 02 de julho de 2018, 17h
+
+**atividades do lappis canceladas neste dia por conta do jogo do brasil na copa**
+
+### Segunda-feira, 09 de julho de 2018, 17h
+
+**micro-férias do laboratório lappis**

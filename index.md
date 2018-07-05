@@ -8,12 +8,14 @@ e experimentação.
 
 ## Próximo evento
 
-### Segunda-feira, 02 de julho de 2018, 17h
+### Segunda-feira, 16 de julho de 2018, 17h
 
 | Palestrante     | Tema                                    | Duração |
 | --------------- | --------------------------------------- | ------- |
-| Joenio Costa    | Gerenciando senhas com GnuPG            | 15 min  |
-| Bruna Moreira   | Molduras de papel - Arte na sua parede  | 30 min  |
+| ???             | Roadmap da frente Chatbot               | 30 min  |
+| ???             | Roadmap da frente ML                    | 30 min  |
+| ???             | Roadmap da frente Promova               | 30 min  |
+| ???             | Roadmap da frente DevOps                | 30 min  |
 
 <br/>
 É importante mencionar que apesar do Lappis ser um laboratório de
