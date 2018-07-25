@@ -35,7 +35,7 @@ title: Eventos passados
 | Palestrante     | Tema                               | Duração |
 | --------------- | ---------------------------------- | ------- |
 | Carla Rocha     | Reconstrução 3D                    | 30 min  |
-| Izabela Cardoso | Tecnologias na Netflix             | 30 min  |
+| Izabela Cardoso | Tecnologias na Netflix [slides (pdf)](slides/netflix.pdf) | 30 min  |
 | Marcos Ronaldo  | Uso básico dos componentes Android | 30 min  |
 
 ### Segunda-feira, 16 de abril de 2018, 17h
