@@ -126,3 +126,11 @@ title: Eventos passados
 ### Segunda-feira, 09 de julho de 2018, 17h
 
 **micro-férias do laboratório lappis**
+
+### Segunda-feira, 16 de julho de 2018, 17h
+
+**ressaca da micro-férias do laboratório lappis**
+
+### Segunda-feira, 23 de julho de 2018, 17h
+
+**ressaca da micro-férias do laboratório lappis**
