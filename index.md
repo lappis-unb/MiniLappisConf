@@ -10,9 +10,11 @@ e experimentação.
 
 ### Segunda-feira, 30 de julho de 2018, 17h
 
-| Palestrante     | Tema                                    | Duração |
-| --------------- | --------------------------------------- | ------- |
-| Joenio Costa    | Gerenciando senhas com GnuPG            | 30 min  |
+| Palestrante     | Tema                                                                | Duração |
+| --------------- | ------------------------------------------------------------------- | ------- |
+| Andrés          | Cuidando e Monitorando: ferramentas livres para engajamento cidadão | 20 min  |
+| Tarciso         | Análise de Dados a serviço do eleitor                               | 20 min  |
+| Joenio Costa    | Gerenciando senhas com GnuPG                                        | 30 min  |
 
 <br/>
 É importante mencionar que apesar do Lappis ser um laboratório de
