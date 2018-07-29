@@ -21,8 +21,8 @@ e experimentação.
 desenvolvimento de software, estamos abertos aos mais diversos assuntos! Desde
 como fazer um instrumento musical utilizando legumes até a criação de jogos.
 
-Veja a lista de <a href="passados">eventos passados</a> e
-a agenda dos <a href="agenda">próximos eventos</a>.
+Veja a lista de <a href="passados.md">eventos passados</a> e
+a agenda dos <a href="agenda.md">próximos eventos</a>.
 
 Deseja contribuir? Quer palestrar? Envie um pull-request ou abra uma issue no
 repositório do evento
