@@ -14,6 +14,7 @@ e experimentação.
 | --------------- | ------------------------------------------------------------------- | ------- |
 | Andrés          | Cuidando e Monitorando: ferramentas livres para engajamento cidadão | 20 min  |
 | Tarciso         | Análise de Dados a serviço do eleitor                               | 20 min  |
+| Saulo           | Ferramenta de gestão regulatória                                    | 20 min  |
 | Joenio Costa    | Gerenciando senhas com GnuPG                                        | 30 min  |
 
 <br/>
