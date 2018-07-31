@@ -2,7 +2,7 @@
 title: Próximos eventos
 ---
 
-### Segunda-feira, 06 de agosto de 2018, 17h
+### Segunda-feira, 13 de agosto de 2018, 17h
 
 | Palestrante     | Tema                                    | Duração |
 | --------------- | --------------------------------------- | ------- |
@@ -16,6 +16,22 @@ title: Próximos eventos
 | ???             | ???                                     | 30 min  |
 | ???             | ???                                     | 30 min  |
 | ???             | ???                                     | 30 min  |
+
+### Segunda-feira, 20 de agosto de 2018, 17h
+
+| Palestrante     | Tema                                    | Duração |
+| --------------- | --------------------------------------- | ------- |
+| ???             | ???                                     | 30 min  |
+| ???             | ???                                     | 30 min  |
+| ???             | ???                                     | 30 min  |
+| ???             | ???                                     | 30 min  |
+| ???             | ???                                     | 30 min  |
+| ???             | ???                                     | 30 min  |
+
+### Segunda-feira, 27 de agosto de 2018, 17h
+
+| Palestrante     | Tema                                    | Duração |
+| --------------- | --------------------------------------- | ------- |
 | ???             | ???                                     | 30 min  |
 | ???             | ???                                     | 30 min  |
 | ???             | ???                                     | 30 min  |
