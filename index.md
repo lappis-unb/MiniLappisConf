@@ -12,7 +12,7 @@ e experimentação.
 
 | Palestrante     | Tema                                    | Duração |
 | --------------- | --------------------------------------- | ------- |
-| ???             | Dinamica Artística                      | 60 min  |
+| Fábio Café      | Dinamica Artística                      | 60 min  |
 
 <br/>
 É importante mencionar que apesar do Lappis ser um laboratório de
