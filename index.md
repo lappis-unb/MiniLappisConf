@@ -10,11 +10,9 @@ e experimentação.
 
 ### Segunda-feira, 06 de agosto de 2018, 17h
 
-| Palestrante      | Tema                                    | Duração |
-| ---------------  | --------------------------------------- | ------- |
-| Joenio Costa     | Gerenciando senhas com GnuPG            | 30 min  |
-| Arthur Temporim  | Framework de bots no Rocket.Chat        | 30 min  |
-| Matheus Bernardo | Evolução no Trollolo                    | 30 min  |
+| Palestrante     | Tema                                    | Duração |
+| --------------- | --------------------------------------- | ------- |
+| ???             | Dinamica Artística                      | 60 min  |
 
 <br/>
 É importante mencionar que apesar do Lappis ser um laboratório de
