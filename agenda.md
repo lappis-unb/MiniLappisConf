@@ -2,14 +2,6 @@
 title: Próximos eventos
 ---
 
-### Segunda-feira, 13 de agosto de 2018, 17h
-
-| Palestrante      | Tema                                    | Duração |
-| ---------------- | --------------------------------------- | ------- |
-| Joenio Costa     | Gerenciando senhas com GnuPG            | 30 min  |
-| Bruna Moreira    | Molduras de papel - Arte na sua parede  | 30 min  |
-| Athos Ribeiro    | ???                                     | 30 min  |
-
 ### Segunda-feira, 20 de agosto de 2018, 17h
 
 | Palestrante      | Tema                                    | Duração |
@@ -22,6 +14,8 @@ title: Próximos eventos
 
 | Palestrante     | Tema                                    | Duração |
 | --------------- | --------------------------------------- | ------- |
+| Joenio Costa    | Gerenciando senhas com GnuPG            | 30 min  |
+| Bruna Moreira   | Molduras de papel - Arte na sua parede  | 30 min  |
 | ???             | Roadmap da frente ML                    | 30 min  |
 | ???             | Roadmap da frente Promova               | 30 min  |
 | ???             | Roadmap da frente DevOps                | 30 min  |

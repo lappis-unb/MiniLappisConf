@@ -8,11 +8,12 @@ e experimentação.
 
 ## Próximo evento
 
-### Segunda-feira, 06 de agosto de 2018, 17h
+### Segunda-feira, 13 de agosto de 2018, 17h
 
-| Palestrante     | Tema                                    | Duração |
-| --------------- | --------------------------------------- | ------- |
-| Fábio Café      | Dinamica Artística                      | 60 min  |
+| Palestrante      | Tema                                    | Duração |
+| ---------------- | --------------------------------------- | ------- |
+| Athos Ribeiro    | Existe vida após o Lappis? (parte 1)    | 30 min  |
+| Arthur Jahn      | Existe vida após o Lappis? (parte 2)    | 30 min  |
 
 <br/>
 É importante mencionar que apesar do Lappis ser um laboratório de

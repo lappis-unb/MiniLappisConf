@@ -8,6 +8,7 @@ title: Eventos passados
   * [Maio](passados#maio-2018)
   * [Junho](passados#junho-2018)
   * [Julho](passados#julho-2018)
+  * [Agosto](passados#agosto-2018)
 
 ## Março 2018
 
@@ -142,3 +143,11 @@ title: Eventos passados
 | Andrés          | Cuidando e Monitorando: ferramentas livres para engajamento cidadão | 20 min  |
 | Tarciso         | Análise de Dados a serviço do eleitor                               | 20 min  |
 | Saulo           | Ferramenta de gestão regulatória                                    | 20 min  |
+
+## Agosto 2018
+
+### Segunda-feira, 06 de agosto de 2018, 17h
+
+| Palestrante     | Tema                                    | Duração |
+| --------------- | --------------------------------------- | ------- |
+| Fábio Café      | Dinamica Artística                      | 60 min  |
