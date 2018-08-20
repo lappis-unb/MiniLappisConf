@@ -6,7 +6,8 @@ title: Próximos eventos
 
 | Palestrante    | Tema                                          | Duração |
 | -------------- | --------------------------------------------- | ------- |
-| Naiara Andrade | Etapas para uma startup de sucesso - MIT GSL  | 30 min  | 
+| Naiara Andrade | 24 passos para uma startup de sucesso - MIT GSL  | 30 min  | 
+|Igor Martins | Como entrar no ecossistema empreendedor  | 30 min  | 
 
 ### Segunda-feira, 03 de setembro de 2018, 17h
 
