@@ -157,3 +157,14 @@ title: Eventos passados
 | Palestrante      | Tema                                    | Duração |
 | ---------------- | --------------------------------------- | ------- |
 | Athos Ribeiro    | Vida após Lappis [vídeo (youtube)](https://www.youtube.com/watch?v=DoKKpAY4WKg) | 30 min  |
+
+### Segunda-feira, 20 de agosto de 2018, 17h
+
+* Local: Sala MOCAP UnB Gama
+* [Link do Facebook divulgando a programação de hoje](https://www.facebook.com/lappisunb5/photos/a.535168910237675/535168156904417)
+
+| Palestrante      | Tema                                    | Duração |
+| ---------------- | --------------------------------------- | ------- |
+| Matheus Faria    | Roadmap da frente Chatbot               | 30 min  |
+| Arthur Temporim  | Framework de bots no Rocket.Chat        | 30 min  |
+| Matheus Bernardo | Evolução no Trollolo                    | 30 min  |

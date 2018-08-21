@@ -2,12 +2,6 @@
 title: Próximos eventos
 ---
 
-### Segunda-feira, 27 de agosto de 2018, 17h
-
-| Palestrante    | Tema                                          | Duração |
-| -------------- | --------------------------------------------- | ------- |
-| Naiara Andrade | Etapas para uma startup de sucesso - MIT GSL  | 30 min  | 
-
 ### Segunda-feira, 03 de setembro de 2018, 17h
 
 | Palestrante      | Tema                                     | Duração |
