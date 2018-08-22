@@ -2,7 +2,9 @@
 title: Próximos eventos
 ---
 
-### Segunda-feira, 03 de setembro de 2018, 17h
+### Segunda-feira, 03 de setembro de 2018, **16h**
+
+**Atenção:** a edição de hoje terá início às 16h.
 
 | Palestrante        | Tema                                                         | Duração |
 | ------------------ | ------------------------------------------------------------ | ------- |
