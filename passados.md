@@ -9,6 +9,7 @@ title: Eventos passados
   * [Junho](passados#junho-2018)
   * [Julho](passados#julho-2018)
   * [Agosto](passados#agosto-2018)
+  * [Setembro](passados#setembro-2018)
 
 ## Março 2018
 
@@ -181,3 +182,15 @@ title: Eventos passados
 | Carla Rocha    | Enfrentando legados, e agora? Como achar a ponta do durex | 7 min   |
 | Bruna Pinos    | Ensinando um app a pensar: Fluxo para bot usando IA       | 7 min   |
 | Paloma Mamede  | Sou roteirista! De Bot!                                   | 7 min   |
+
+## Setembro 2018
+
+### Segunda-feira, 03 de setembro de 2018, **16h**
+
+**Atenção:** a edição de hoje terá início às 16h.
+
+| Palestrante        | Tema                                                         | Duração |
+| ------------------ | ------------------------------------------------------------ | ------- |
+| Rodrigo Siqueira   | Viagem ao Centro do Linux                                    | 30 min  |
+| Rodrigo Siqueira   | Navegando no Centro com Kworkflow                            | 30 min  |
+| Arthur Del Esposte | Arquitetura de Microsserviços: relato de experiência prática | 30 min  |

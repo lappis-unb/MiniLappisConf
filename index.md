@@ -8,15 +8,13 @@ e experimentação.
 
 ## Próximo evento
 
-### Segunda-feira, 03 de setembro de 2018, **16h**
+### Segunda-feira, 10 de setembro de 2018, 17h
 
-**Atenção:** a edição de hoje terá início às 16h.
-
-| Palestrante        | Tema                                                         | Duração |
-| ------------------ | ------------------------------------------------------------ | ------- |
-| Rodrigo Siqueira   | Viagem ao Centro do Linux                                    | 30 min  | 
-| Rodrigo Siqueira   | Navegando no Centro com Kworkflow                            | 30 min  |
-| Arthur Del Esposte | Arquitetura de Microsserviços: relato de experiência prática | 30 min  |
+| Palestrante        | Tema                                     | Duração |
+| ------------------ | ---------------------------------------- | ------- |
+| Victor Navarro     | Git para não-devs                        | 30 min  |
+| Joenio Costa       | Gerenciando senhas com GnuPG             | 30 min  |
+| Bruna Moreira      | Molduras de papel - Arte na sua parede   | 30 min  |
 
 <br/>
 É importante mencionar que apesar do Lappis ser um laboratório de
