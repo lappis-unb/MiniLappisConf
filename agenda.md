@@ -8,6 +8,7 @@ title: Próximos eventos
 
 | Palestrante        | Tema                                     | Duração |
 | ------------------ | ---------------------------------------- | ------- |
+| [Sônia Paiva](https://www.facebook.com/ltcunb) | Arte + tecnologia | 30 min  |
 | ???                | ???                                      | 30 min  |
 
 ### Segunda-feira, 24 de setembro de 2018, 17h
@@ -36,7 +37,6 @@ title: Próximos eventos
 | ???             | Roadmap da frente ML                            | 30 min  |
 | ???             | Roadmap da frente Promova                       | 30 min  |
 | ???             | Roadmap da frente DevOps                        | 30 min  |
-| Sonia Paiva     | Arte + tecnologia                               | 30 min  |
 | Lucas Kanashiro | ???                                             | 30 min  |
 | ???             | ???                                             | 30 min  |
 | ???             | ???                                             | 30 min  |
