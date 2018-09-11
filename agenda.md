@@ -13,9 +13,7 @@ title: Próximos eventos
 
 ### Segunda-feira, 24 de setembro de 2018, 17h
 
-| Palestrante        | Tema                                     | Duração |
-| ------------------ | ---------------------------------------- | ------- |
-| ???                | ???                                      | 30 min  |
+Não teremos evento neste dia por conta da semana universitária.
 
 ## Outubro 2018
 
