@@ -2,19 +2,27 @@
 layout: default
 ---
 
-MiniLappisConf é um evento realizado semanalmente (segunda-feira, de 17h até
-19h) no laboratório Lappis para troca de conhecimento, divulgação, treinamento
+MiniLappisConf é um evento realizado semanalmente (segunda-feira, de 17h30 até
+18h30h) na sala MOCAP (no prédio dos professores) para troca de conhecimento, divulgação, treinamento
 e experimentação.
+
+Nesse evento, a troca de conhecimentos ocorre por uma das seguintes formas:
+
+| Tipo de interação | Descrição | Duração |
+| ----------------- | --------- | ------- |
+|  Lightning Talk   | Conversa rápida sobre qualquer assunto | 5 minutos |
+|  Exposição        | Uma conversa um pouco mais demorada, apresentando uma variedade de conceitos de forma introdutória | 15 minutos |
+| Workshop | Uma conversa introduzindo diversos conceitos e apresentando alguma parte prática pros presentes | 30 minutos |
+| Palestra | Uma conversa que introduz vários conceitos, alguns de forma mais aprofundada, sem parte prática | 30 minutos |
 
 ## Próximo evento
 
 ### Segunda-feira, 10 de setembro de 2018, 17h
 
-| Palestrante        | Tema                                     | Duração |
-| ------------------ | ---------------------------------------- | ------- |
-| Victor Navarro     | Git para não-devs                        | 30 min  |
-| Joenio Costa       | Gerenciando senhas com GnuPG             | 30 min  |
-| Bruna Moreira      | Molduras de papel - Arte na sua parede   | 30 min  |
+| Palestrante        | Tema                                     |    Tipo   |
+| ------------------ | ---------------------------------------- | -------   |
+| Victor Navarro     | Git para não-devs                        | Palestra  |
+| Joenio Costa       | Gerenciando senhas com GnuPG             | Palestra  |
 
 <br/>
 É importante mencionar que apesar do Lappis ser um laboratório de
