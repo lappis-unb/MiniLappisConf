@@ -17,12 +17,12 @@ Nesse evento, a troca de conhecimentos ocorre por uma das seguintes formas:
 
 ## Próximo evento
 
-### Segunda-feira, 10 de setembro de 2018, 17h
+### Segunda-feira, 17 de setembro de 2018, 17h30
 
 | Palestrante        | Tema                                     |    Tipo   |
 | ------------------ | ---------------------------------------- | -------   |
-| Victor Navarro     | Git para não-devs                        | Palestra  |
-| Joenio Costa       | Gerenciando senhas com GnuPG             | Palestra  |
+|   Bruna Moreira    |              Molduras de Papel           | Workshop  |
+
 
 <br/>
 É importante mencionar que apesar do Lappis ser um laboratório de
