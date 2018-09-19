@@ -21,15 +21,17 @@ Não teremos evento neste dia por conta da semana universitária.
 
 * Local: Auditório
 
-| Palestrante        | Tema                                     | Duração |
-| ------------------ | ---------------------------------------- | ------- |
-| Yasodara Córdova   | ???                                      | 30 min  |
-| Christian          | ???                                      | 30 min  |
+| Palestrante        | Tema - MachineLearn: arquitetura e tecnicas                | Duração |
+| ------------------ | ---------------------------------------------------------- | ------- |
+| Christian          | Estudo de caso empresa CERTYS                              | 15 min  |
+| Victor Moura       | Estudo de caso Lappis                                      | 15 min  |
+| X                  | Estudo de caso Y                                           | 15 min  |
 
 ### Backlog
 
 | Palestrante     | Tema                                            | Duração |
 | --------------- | ----------------------------------------------- | ------- |
+| Yasodara Córdova   | ???                                          | 30 min  |
 | Joenio Costa    | IndieWeb: Retomando a Web descentralizada       | 30 min  |
 | Joenio Costa    | Sustentabilidade técnica de software acadêmico  | 30 min  |
 | ???             | Roadmap da frente ML                            | 30 min  |
