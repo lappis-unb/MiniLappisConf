@@ -6,23 +6,22 @@ MiniLappisConf é um evento realizado semanalmente (segunda-feira, de 17h30 até
 18h30h) na sala MOCAP (no prédio dos professores) para troca de conhecimento, divulgação, treinamento
 e experimentação.
 
+## Próximo evento
+
+### Segunda-feira, 24 de setembro de 2018, 17h
+
+Não teremos evento neste dia por conta da semana universitária.
+
+### Legenda
+
 Nesse evento, a troca de conhecimentos ocorre por uma das seguintes formas:
 
 | Tipo de interação | Descrição | Duração |
 | ----------------- | --------- | ------- |
-|  Lightning Talk   | Conversa rápida sobre qualquer assunto | 5 minutos |
-|  Exposição        | Uma conversa um pouco mais demorada, apresentando uma variedade de conceitos de forma introdutória | 15 minutos |
-| Workshop | Uma conversa introduzindo diversos conceitos e apresentando alguma parte prática pros presentes | 30 minutos |
-| Palestra | Uma conversa que introduz vários conceitos, alguns de forma mais aprofundada, sem parte prática | 30 minutos |
-
-## Próximo evento
-
-### Segunda-feira, 17 de setembro de 2018, 17h30
-
-| Palestrante        | Tema                                     |    Tipo   |
-| ------------------ | ---------------------------------------- | -------   |
-|   Bruna Moreira    |              Molduras de Papel           | Workshop  |
-
+| Lightning Talk    | Conversa rápida sobre qualquer assunto | 5 minutos |
+| Exposição         | Uma conversa um pouco mais demorada, apresentando uma variedade de conceitos de forma introdutória | 15 minutos |
+| Workshop          | Uma conversa introduzindo diversos conceitos e apresentando alguma parte prática pros presentes | 30 minutos |
+| Palestra          | Uma conversa que introduz vários conceitos, alguns de forma mais aprofundada, sem parte prática | 30 minutos |
 
 <br/>
 É importante mencionar que apesar do Lappis ser um laboratório de

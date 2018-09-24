@@ -2,19 +2,6 @@
 title: Próximos eventos
 ---
 
-## Setembro 2018
-
-### Segunda-feira, 17 de setembro de 2018, 17h
-
-| Palestrante        | Tema                                     | Duração |
-| ------------------ | ---------------------------------------- | ------- |
-| [Sônia Paiva](https://www.facebook.com/ltcunb) | Arte + tecnologia | 30 min  |
-| ???                | ???                                      | 30 min  |
-
-### Segunda-feira, 24 de setembro de 2018, 17h
-
-Não teremos evento neste dia por conta da semana universitária.
-
 ## Outubro 2018
 
 ### Segunda-feira, 01 de outubro de 2018, 17h
@@ -30,6 +17,7 @@ Não teremos evento neste dia por conta da semana universitária.
 
 | Palestrante     | Tema                                            | Duração |
 | --------------- | ----------------------------------------------- | ------- |
+| [Sônia Paiva](https://www.facebook.com/ltcunb) | Arte + tecnologia | 30 min  |
 | Joenio Costa    | IndieWeb: Retomando a Web descentralizada       | 30 min  |
 | Joenio Costa    | Sustentabilidade técnica de software acadêmico  | 30 min  |
 | ???             | Roadmap da frente ML                            | 30 min  |

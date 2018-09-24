@@ -191,6 +191,19 @@ title: Eventos passados
 
 | Palestrante        | Tema                                                         | Duração |
 | ------------------ | ------------------------------------------------------------ | ------- |
-| Rodrigo Siqueira   | Viagem ao Centro do Linux                                    | 30 min  |
+| Rodrigo Siqueira   | Viagem ao Centro do Linux [slides](slides/primeiro_caminhos_kernel_linux.pdf) | 30 min  |
 | Rodrigo Siqueira   | Navegando no Centro com Kworkflow                            | 30 min  |
 | Arthur Del Esposte | Arquitetura de Microsserviços: relato de experiência prática | 30 min  |
+
+### Segunda-feira, 10 de setembro de 2018, 17h
+ 
+| Palestrante        | Tema                                     |    Tipo   |
+| ------------------ | ---------------------------------------- | -------   |
+| Victor Navarro     | Git para não-devs                        | Palestra  |
+| Joenio Costa       | Gerenciando senhas com GnuPG [slides](http://joenio.me/gnupg) | Palestra  |
+
+### Segunda-feira, 17 de setembro de 2018, 17h30
+
+| Palestrante        | Tema                                     |    Tipo   |
+| ------------------ | ---------------------------------------- | -------   |
+| Bruna Moreira      | Molduras de Papel                        | Workshop  |
