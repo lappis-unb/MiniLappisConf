@@ -4,25 +4,41 @@ title: Próximos eventos
 
 ## Outubro 2018
 
-### Segunda-feira, 01 de outubro de 2018, 17h
+### Segunda-feira, 08 de outubro de 2018, 17h30
 
-* Local: Auditório
+| Palestrante     | Tema                                            | Tipo     |
+| --------------- | ----------------------------------------------- | -------- |
+| ???             | ???                                             | Palestra |
 
-| Palestrante        | Tema                                     | Duração |
-| ------------------ | ---------------------------------------- | ------- |
-| Yasodara Córdova   | ???                                      | 30 min  |
-| Christian          | ???                                      | 30 min  |
+### Segunda-feira, 15 de outubro de 2018, 17h30
 
-### Backlog
+| Palestrante     | Tema                                            | Tipo     |
+| --------------- | ----------------------------------------------- | -------- |
+| ???             | ???                                             | Palestra |
 
-| Palestrante     | Tema                                            | Duração |
-| --------------- | ----------------------------------------------- | ------- |
-| [Sônia Paiva](https://www.facebook.com/ltcunb) | Arte + tecnologia | 30 min  |
-| Joenio Costa    | IndieWeb: Retomando a Web descentralizada       | 30 min  |
-| Joenio Costa    | Sustentabilidade técnica de software acadêmico  | 30 min  |
-| ???             | Roadmap da frente ML                            | 30 min  |
-| ???             | Roadmap da frente Promova                       | 30 min  |
-| ???             | Roadmap da frente DevOps                        | 30 min  |
-| Lucas Kanashiro | ???                                             | 30 min  |
-| ???             | ???                                             | 30 min  |
-| ???             | ???                                             | 30 min  |
+### Segunda-feira, 22 de outubro de 2018, 17h30
+
+| Palestrante     | Tema                                            | Tipo     |
+| --------------- | ----------------------------------------------- | -------- |
+| ???             | ???                                             | Palestra |
+
+### Segunda-feira, 29 de outubro de 2018, 17h30
+
+| Palestrante     | Tema                                            | Tipo     |
+| --------------- | ----------------------------------------------- | -------- |
+| ???             | ???                                             | Palestra |
+
+## Backlog
+
+| Palestrante     | Tema                                             | Tipo     |
+| --------------- | ------------------------------------------------ | -------- |
+| [Sônia Paiva](https://www.facebook.com/ltcunb) | Arte + tecnologia | Palestra |
+| Joenio Costa    | IndieWeb: Retomando a Web descentralizada        | Palestra |
+| Joenio Costa    | Sustentabilidade técnica de software acadêmico   | Palestra |
+| ???             | Roadmap da frente ML                             | Palestra |
+| ???             | Roadmap da frente DevOps                         | Palestra |
+| Lucas Kanashiro | ???                                              | Palestra |
+| ???             | ???                                              | Palestra |
+| ???             | ???                                              | Palestra |
+| Yasodara Córdova| ???                                              | Palestra |
+| Christian       | ???                                              | Palestra |

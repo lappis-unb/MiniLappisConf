@@ -8,9 +8,12 @@ e experimentação.
 
 ## Próximo evento
 
-### Segunda-feira, 24 de setembro de 2018, 17h
+### Segunda-feira, 01 de outubro de 2018, 17h30
 
-Não teremos evento neste dia por conta da semana universitária.
+| Palestrante         | Tema                                     | Tipo      |
+| ------------------- | ---------------------------------------- | --------- |
+| Peter, Ânnie, Chico | Roadmap da frente Promova                | Palestra  |
+| Fabio, Bruna        | Python Cerrado 2018: Resumo              | Palestra  |
 
 ### Legenda
 

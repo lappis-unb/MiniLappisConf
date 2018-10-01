@@ -207,3 +207,7 @@ title: Eventos passados
 | Palestrante        | Tema                                     |    Tipo   |
 | ------------------ | ---------------------------------------- | -------   |
 | Bruna Moreira      | Molduras de Papel                        | Workshop  |
+
+### Segunda-feira, 24 de setembro de 2018, 17h30
+
+Não teremos evento neste dia por conta da semana universitária.
