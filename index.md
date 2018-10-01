@@ -13,7 +13,7 @@ e experimentação.
 | Palestrante         | Tema                                     | Tipo      |
 | ------------------- | ---------------------------------------- | --------- |
 | Peter, Ânnie, Chico | Roadmap da frente Promova                | Palestra  |
-| Fabio, Bruna        | Python Cerrado 2018: Resumo              | Palestra  |
+| Heloise, Pablo      | Apresentação do projeto Jandig           | Palestra  |
 
 ### Legenda
 
