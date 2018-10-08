@@ -8,12 +8,12 @@ e experimentação.
 
 ## Próximo evento
 
-### Segunda-feira, 01 de outubro de 2018, 17h30
+### Segunda-feira, 08 de outubro de 2018, 17h30
 
-| Palestrante         | Tema                                     | Tipo      |
-| ------------------- | ---------------------------------------- | --------- |
-| Peter, Ânnie, Chico | Roadmap da frente Promova                | Palestra  |
-| Heloise, Pablo      | Apresentação do projeto Jandig           | Palestra  |
+| Palestrante     | Tema                                            | Tipo     |
+| --------------- | ----------------------------------------------- | -------- |
+| Daniel Guerreiro | SVM - Support Vector Machine                   | Palestra |
+| Renato Fabbri | Sistemas e redes complexas: fundamentos e aplicações em redes sociais e linguagens | Palestra |
 
 ### Legenda
 

@@ -10,6 +10,7 @@ title: Eventos passados
   * [Julho](passados#julho-2018)
   * [Agosto](passados#agosto-2018)
   * [Setembro](passados#setembro-2018)
+  * [Outubro](passados#outubro-2018)
 
 ## Março 2018
 
@@ -211,3 +212,12 @@ title: Eventos passados
 ### Segunda-feira, 24 de setembro de 2018, 17h30
 
 Não teremos evento neste dia por conta da semana universitária.
+
+## Outubro 2018
+
+### Segunda-feira, 01 de outubro de 2018, 17h30
+
+| Palestrante         | Tema                                     | Tipo      |
+| ------------------- | ---------------------------------------- | --------- |
+| Peter, Ânnie, Chico | Roadmap da frente Promova                | Palestra  |
+| Heloise, Pablo      | Apresentação do projeto Jandig           | Palestra  |
