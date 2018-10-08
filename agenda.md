@@ -8,7 +8,7 @@ title: Próximos eventos
 
 | Palestrante     | Tema                                            | Tipo     |
 | --------------- | ----------------------------------------------- | -------- |
-| ???             | ???                                             | Palestra |
+| Daniel Guerreiro| Support vector machine (SVM)                    | Palestra |
 
 ### Segunda-feira, 15 de outubro de 2018, 17h30
 
