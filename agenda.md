@@ -4,12 +4,6 @@ title: Próximos eventos
 
 ## Outubro 2018
 
-### Segunda-feira, 15 de outubro de 2018, 17h30
-
-| Palestrante     | Tema                                            | Tipo     |
-| --------------- | ----------------------------------------------- | -------- |
-| ???             | ???                                             | Palestra |
-
 ### Segunda-feira, 22 de outubro de 2018, 17h30
 
 | Palestrante     | Tema                                            | Tipo     |
