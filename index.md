@@ -12,7 +12,8 @@ e experimentação.
 
 | Palestrante     | Tema                                            | Tipo     |
 | --------------- | ----------------------------------------------- | -------- |
-|                 |                                                 |          |
+| Arthur Temporim | Dredd - Juiz de EPs                             | Exposição|
+
 
 ### Legenda
 
