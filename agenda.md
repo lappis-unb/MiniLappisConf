@@ -20,7 +20,7 @@ title: Próximos eventos
 
 | Palestrante     | Tema                                            | Tipo     |
 | --------------- | ----------------------------------------------- | -------- |
-| ???             | ???                                             | Palestra |
+| Guilherme Baufaker Rego | Containers, Service Mesh, Istio e Kiali | Palestra |
 
 ## Backlog
 
@@ -36,3 +36,4 @@ title: Próximos eventos
 | ???             | ???                                              | Palestra |
 | Yasodara Córdova| ???                                              | Palestra |
 | Christian       | ???                                              | Palestra |
+
