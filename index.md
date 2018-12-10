@@ -3,17 +3,13 @@ layout: default
 ---
 
 MiniLappisConf é um evento realizado semanalmente (segunda-feira, de 17h30 até
-18h30h) na sala MOCAP (no prédio dos professores) para troca de conhecimento, divulgação, treinamento
-e experimentação.
+18h30h) na sala MOCAP (no prédio dos professores) para troca de conhecimento,
+divulgação, treinamento e experimentação.
 
 ## Próximo evento
 
-### Segunda-feira, 22 de outubro de 2018, 17h30
-
-| Palestrante     | Tema                                            | Tipo     |
-| --------------- | ----------------------------------------------- | -------- |
-| Arthur Temporim | Dredd - Juiz de EPs                             | Exposição|
-
+O evento MiniLappisConf está suspenso até o retorno das férias da UnB, consulte
+a <a href="agenda">agenda</a> para conhecer as datas.
 
 ### Legenda
 

@@ -235,3 +235,7 @@ Não teremos evento neste dia por conta da semana universitária.
 | --------------- | ----------------------------------------------- | -------- |
 | Arthur Temporim | RASA outside in                                 | Workshop |
 | Fabio Mendes    | #TaRepreendido                                  | Palestra |
+
+A MiniLappisConf segue o calendário acadêmico da UnB, as atividades durante o
+mês de Novembro são encerradas e recomeçam no início do próximo semestre,
+consulte a <a href="agenda">agenda</a> para detalhes sobre as datas.

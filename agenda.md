@@ -2,38 +2,25 @@
 title: Próximos eventos
 ---
 
-## Outubro 2018
+## Março 2019
 
-### Segunda-feira, 12 de novembro de 2018, 17h30
-
-| Palestrante     | Tema                                            | Tipo     |
-| --------------- | ----------------------------------------------- | -------- |
-| ???             | ???                                             | Palestra |
-
-### Segunda-feira, 19 de novembro de 2018, 17h30
+### Segunda-feira, 11 de março de 2019, 17h30
 
 | Palestrante     | Tema                                            | Tipo     |
 | --------------- | ----------------------------------------------- | -------- |
 | ???             | ???                                             | Palestra |
-
-### Segunda-feira, 26 de novembro de 2018, 17h30
-
-| Palestrante     | Tema                                            | Tipo     |
-| --------------- | ----------------------------------------------- | -------- |
-| Guilherme Baufaker Rego | Containers, Service Mesh, Istio e Kiali | Palestra |
+| ???             | ???                                             | Palestra |
 
 ## Backlog
 
 | Palestrante     | Tema                                             | Tipo     |
 | --------------- | ------------------------------------------------ | -------- |
+| Arthur Temporim | Dredd - Juiz de EPs                              | Exposição|
+| Guilherme Baufaker Rego | Containers, Service Mesh, Istio e Kiali  | Palestra |
 | [Sônia Paiva](https://www.facebook.com/ltcunb) | Arte + tecnologia | Palestra |
 | Joenio Costa    | IndieWeb: Retomando a Web descentralizada        | Palestra |
 | Joenio Costa    | Sustentabilidade técnica de software acadêmico   | Palestra |
-| ???             | Roadmap da frente ML                             | Palestra |
-| ???             | Roadmap da frente DevOps                         | Palestra |
 | Lucas Kanashiro | ???                                              | Palestra |
-| ???             | ???                                              | Palestra |
-| ???             | ???                                              | Palestra |
-| Yasodara Córdova| ???                                              | Palestra |
 | Christian       | ???                                              | Palestra |
-
+| Pablo           | Talk like TED                                    | Palestra |
+| ???             | ???                                              | Palestra |
