@@ -2,7 +2,7 @@
 title: Eventos passados
 ---
 
-* 2018
+* 2018 [relatório anual 2018](relatorio-2018)
   * [Março](passados#março-2018)
   * [Abril](passados#abril-2018)
   * [Maio](passados#maio-2018)

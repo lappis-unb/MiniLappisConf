@@ -6,10 +6,16 @@ MiniLappisConf é um evento realizado semanalmente (segunda-feira, de 17h30 até
 18h30h) na sala MOCAP (no prédio dos professores) para troca de conhecimento,
 divulgação, treinamento e experimentação.
 
+bla
+
 ## Próximo evento
 
-O evento MiniLappisConf está suspenso até o retorno das férias da UnB, consulte
-a <a href="agenda">agenda</a> para conhecer as datas.
+### Segunda-feira, 18 de março de 2019, 17h30
+
+| Palestrante     | Tema                                            | Tipo     |
+| --------------- | ----------------------------------------------- | -------- |
+| Joenio Costa    | Relatório Anual MiniLappisConf 2018             | Palestra |
+| ???             | ???                                             | Palestra |
 
 ### Legenda
 
