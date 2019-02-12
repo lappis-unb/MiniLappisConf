@@ -4,7 +4,16 @@ title: Próximos eventos
 
 ## Março 2019
 
-### Segunda-feira, 11 de março de 2019, 17h30
+### Segunda-feira, 25 de março de 2019, 17h30
+
+| Palestrante     | Tema                                            | Tipo     |
+| --------------- | ----------------------------------------------- | -------- |
+| ???             | ???                                             | Palestra |
+| ???             | ???                                             | Palestra |
+
+## Abril 2019
+
+### Segunda-feira, 01 de abril de 2019, 17h30
 
 | Palestrante     | Tema                                            | Tipo     |
 | --------------- | ----------------------------------------------- | -------- |

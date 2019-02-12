@@ -3,10 +3,8 @@ layout: default
 ---
 
 MiniLappisConf é um evento realizado semanalmente (segunda-feira, de 17h30 até
-18h30h) na sala MOCAP (no prédio dos professores) para troca de conhecimento,
-divulgação, treinamento e experimentação.
-
-bla
+18h30h) no laboratório Lappis para troca de conhecimento, divulgação,
+treinamento e experimentação.
 
 ## Próximo evento
 
@@ -14,8 +12,8 @@ bla
 
 | Palestrante     | Tema                                            | Tipo     |
 | --------------- | ----------------------------------------------- | -------- |
-| Joenio Costa    | Relatório Anual MiniLappisConf 2018             | Palestra |
-| ???             | ???                                             | Palestra |
+| Joenio Costa    | Relatório MiniLappisConf 2018                   | Palestra |
+| Joenio Costa    | 50 anos de Engenharia de Software               | Palestra |
 
 ### Legenda
 
