@@ -32,4 +32,4 @@ title: Próximos eventos
 | Pablo                                          | Talk like TED                                    | Palestra |
 | Lucas Kanashiro                                | ???                                              | Palestra |
 | Christian                                      | ???                                              | Palestra |
-| ???                                            | ???                                              | Palestra |
+| Leonardo Gomes                                 | ???                                              | Palestra |
