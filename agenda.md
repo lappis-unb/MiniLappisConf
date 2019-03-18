@@ -8,7 +8,7 @@ title: Próximos eventos
 
 | Palestrante     | Tema                                            | Tipo     |
 | --------------- | ----------------------------------------------- | -------- |
-| Lucas Martins   | SMI                                             | Exposição|
+| Lucas Martins & Arthur Assis | SMI                                             | Exposição|
 | ???             | ???                                             | Palestra |
 
 ## Abril 2019
