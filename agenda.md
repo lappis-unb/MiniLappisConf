@@ -6,10 +6,10 @@ title: Próximos eventos
 
 ### Segunda-feira, 25 de março de 2019, 17h30
 
-| Palestrante     | Tema                                            | Tipo     |
-| --------------- | ----------------------------------------------- | -------- |
-| ???             | ???                                             | Palestra |
-| ???             | ???                                             | Palestra |
+| Palestrante                  | Tema                                            | Tipo     |
+| ---------------------------- | ----------------------------------------------- | -------- |
+| Lucas Martins & Arthur Assis | SMI                                             | Exposição|
+| ???                          | ???                                             | Palestra |
 
 ## Abril 2019
 
@@ -22,14 +22,14 @@ title: Próximos eventos
 
 ## Backlog
 
-| Palestrante     | Tema                                             | Tipo     |
-| --------------- | ------------------------------------------------ | -------- |
-| Arthur Temporim | Dredd - Juiz de EPs                              | Exposição|
-| Guilherme Baufaker Rego | Containers, Service Mesh, Istio e Kiali  | Palestra |
+| Palestrante                                    | Tema                                             | Tipo     |
+| ---------------------------------------------- | ------------------------------------------------ | -------- |
+| Arthur Temporim | Dredd - Juiz de EPs          | Exposição|
+| Guilherme Baufaker Rego                        | Containers, Service Mesh, Istio e Kiali  | Palestra |
 | [Sônia Paiva](https://www.facebook.com/ltcunb) | Arte + tecnologia | Palestra |
-| Joenio Costa    | IndieWeb: Retomando a Web descentralizada        | Palestra |
-| Joenio Costa    | Sustentabilidade técnica de software acadêmico   | Palestra |
-| Lucas Kanashiro | ???                                              | Palestra |
-| Christian       | ???                                              | Palestra |
-| Pablo           | Talk like TED                                    | Palestra |
-| ???             | ???                                              | Palestra |
+| Joenio Costa                                   | IndieWeb: Retomando a Web descentralizada        | Palestra |
+| Joenio Costa                                   | Sustentabilidade técnica de software acadêmico   | Palestra |
+| Pablo                                          | Talk like TED                                    | Palestra |
+| Lucas Kanashiro                                | ???                                              | Palestra |
+| Christian                                      | ???                                              | Palestra |
+| ???                                            | ???                                              | Palestra |
