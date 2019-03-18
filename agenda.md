@@ -24,12 +24,25 @@ title: Próximos eventos
 
 | Palestrante                                    | Tema                                             | Tipo     |
 | ---------------------------------------------- | ------------------------------------------------ | -------- |
-| Arthur Temporim | Dredd - Juiz de EPs          | Exposição|
-| Guilherme Baufaker Rego                        | Containers, Service Mesh, Istio e Kiali  | Palestra |
-| [Sônia Paiva](https://www.facebook.com/ltcunb) | Arte + tecnologia | Palestra |
+| Arthur Temporim                                | Dredd - Juiz de EPs                              | Exposição |
+| Guilherme Baufaker Rego                        | Containers, Service Mesh, Istio e Kiali          | Palestra |
+| [Sônia Paiva](https://www.facebook.com/ltcunb) | Arte + tecnologia                                | Palestra |
 | Joenio Costa                                   | IndieWeb: Retomando a Web descentralizada        | Palestra |
 | Joenio Costa                                   | Sustentabilidade técnica de software acadêmico   | Palestra |
 | Pablo                                          | Talk like TED                                    | Palestra |
 | Lucas Kanashiro                                | ???                                              | Palestra |
 | Christian                                      | ???                                              | Palestra |
 | Leonardo Gomes                                 | ???                                              | Palestra |
+
+## Descrição
+
+| Tema                                           | Descrição                                       |
+| ---------------------------------------------- | ----------------------------------------------- |
+| SMI                                            | ???                                             |
+| Exposição                                      | ???                                             |
+| Containers, Service Mesh, Istio e Kiali        | ???                                             |
+| Arte + tecnologia                              | ???                                             |
+| IndieWeb: Retomando a Web descentralizada      | ???                                             |
+| Sustentabilidade técnica de software acadêmico | ???                                             |
+| Talk like TED                                  | ???                                             |
+
