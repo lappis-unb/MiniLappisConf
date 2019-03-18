@@ -8,7 +8,7 @@ title: Próximos eventos
 
 | Palestrante     | Tema                                            | Tipo     |
 | --------------- | ----------------------------------------------- | -------- |
-| ???             | ???                                             | Palestra |
+| Lucas Martins   | SMI                                             | Exposição|
 | ???             | ???                                             | Palestra |
 
 ## Abril 2019
