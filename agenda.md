@@ -8,7 +8,7 @@ title: Próximos eventos
 
 | Palestrante                  | Tema                                            | Tipo     |
 | ---------------------------- | ----------------------------------------------- | -------- |
-| Lucas Martins & Arthur Assis | SMI                                             | Exposição|
+| Lucas Martins & Arthur Assis | SMI - Sistema de Monitoramento de Insumos       | Exposição|
 | ???                          | ???                                             | Palestra |
 
 ## Abril 2019
@@ -38,11 +38,10 @@ title: Próximos eventos
 
 | Tema                                           | Descrição                                       |
 | ---------------------------------------------- | ----------------------------------------------- |
-| SMI                                            | ???                                             |
+| SMI - Sistema de Monitoramento de Insumos      | O SMI (Sistema de Monitoramento de Insumos) consiste em uma aplicação web desenvolvida para auxiliar o monitoramento dos insumos importantes para a Universidade de Brasília. Nesta exposição será apresentada a sua utilização na construção de um sistema para gestão de eficiênia energética, monitorando o abastecimento e consumo da energia elétrica de toda a UnB. |
 | Exposição                                      | ???                                             |
 | Containers, Service Mesh, Istio e Kiali        | ???                                             |
 | Arte + tecnologia                              | ???                                             |
 | IndieWeb: Retomando a Web descentralizada      | ???                                             |
 | Sustentabilidade técnica de software acadêmico | ???                                             |
 | Talk like TED                                  | ???                                             |
-
