@@ -30,7 +30,7 @@ title: Próximos eventos
 | [Sônia Paiva](https://www.facebook.com/ltcunb) | Arte + tecnologia                                | Palestra |
 | Joenio Costa                                   | IndieWeb: Retomando a Web descentralizada        | Palestra |
 | Joenio Costa                                   | Sustentabilidade técnica de software acadêmico   | Palestra |
-| Pablo                                          | Talk like TED                                    | Palestra |
+| Pablo                                          | Jandig e AR na Web                               | Palestra |
 | Jackson - CGEE (Centro de gestão e estudos estratégicos)    de grafos para entender a pesuisa no Brasil    | Palestra |
 | Christian                                      | ???                                              | Palestra |
 | Leonardo Gomes                                 | ???                                              | Palestra |
