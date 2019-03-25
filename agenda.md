@@ -10,7 +10,7 @@ title: Próximos eventos
 | ---------------------------- | ----------------------------------------------- | -------- |
 | Lucas Martins & Arthur Assis | SMI - Sistema de Monitoramento de Insumos       | Exposição|
 | Arthur Temporim              | Dred - Juiz de EPs                              | Palestra |
-| Eduardo                      | EDUBOT 2019                                     | Exposiço |
+| Roberto Baptista                      | EDUBOT 2019                                     | Exposiço |
 
 ## Abril 2019
 
