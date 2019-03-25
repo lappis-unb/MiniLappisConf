@@ -46,4 +46,4 @@ title: Próximos eventos
 | Arte + tecnologia                              | ???                                             |
 | IndieWeb: Retomando a Web descentralizada      | ???                                             |
 | Sustentabilidade técnica de software acadêmico | ???                                             |
-| Talk like TED                                  | ???                                             |
+| Jandig e AR na Web                             | A Utilização de tecnologias abertas para criação de AR com tecnologias de programação web e PWA|
