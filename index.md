@@ -15,6 +15,7 @@ treinamento e experimentação.
 | Joenio Costa    | Relatório MiniLappisConf 2018                   | Palestra |
 | Joenio Costa    | 50 anos de Engenharia de Software               | Palestra |
 
+
 ### Legenda
 
 Nesse evento, a troca de conhecimentos ocorre por uma das seguintes formas:
@@ -34,6 +35,8 @@ como fazer um instrumento musical utilizando legumes até a criação de jogos.
 Veja a lista de <a href="passados">eventos passados</a> e
 a agenda dos <a href="agenda">próximos eventos</a>.
 
-Deseja contribuir? Quer palestrar? Envie um pull-request ou abra uma issue no
+### Deseja contribuir? Quer palestrar?
+
+Envie um pull-request ou abra uma issue no
 repositório do evento
 [https://github.com/lappis-unb/minilappisconf](https://github.com/lappis-unb/minilappisconf)
