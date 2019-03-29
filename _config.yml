@@ -1,6 +1,6 @@
 title: MiniLappisConf
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://xyz.com" # the base hostname & protocol for your site
+url: "https://minilappisconf.lappis.rocks" # the base hostname & protocol for your site
 theme: jekyll-theme-minimal
 
 # Build settings
