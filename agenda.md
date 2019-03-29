@@ -11,7 +11,7 @@
 | Jackson Maia - CGEE (Centro de gestão e estudos estratégicos)  | Uso de grafos para entender a pesquisa no Brasil   | Palestra |
 | ???             | ???                                             | Palestra |
 
-### Segunda-feira, 25 de março de 2019, 17h30
+### Segunda-feira, 08 de abril de 2019, 17h30
 
 | Palestrante                  | Tema                                            | Tipo     |
 | ---------------------------- | ----------------------------------------------- | -------- |
