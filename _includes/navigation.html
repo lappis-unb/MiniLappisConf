@@ -1,0 +1,9 @@
+<nav class="c-navigation {% if site.fixedNav == 'true' %}is-fixed{% endif %}">
+  <div class="c-navigation__container u-container">
+    <a class="c-navigation__item {% if page.url == '/' %}is-active{% endif %}" href="{{ "/" | prepend: site.baseurl }}">Inicio</a>
+    <a class="c-navigation__item {% if page.url == '/agenda/' %}is-active{% endif %}" href="{{ "/agenda/" | prepend: site.baseurl }}">Agenda</a>
+    <a class="c-navigation__item {% if page.url == '/backlog/' %}is-active{% endif %}" href="{{ "/backlog/" | prepend: site.baseurl }}">Backlog</a>
+    <a class="c-navigation__item {% if page.url == '/eventos-passados/' %}is-active{% endif %}" href="{{ "/eventos-passados/" | prepend: site.baseurl }}">Eventos Passados</a>
+    <a class="c-navigation__item {% if page.url == '/contribuir/' %}is-active{% endif %}" href="{{ "/contribuir/" | prepend: site.baseurl }}">Contribuir</a>
+  </div>
+</nav>

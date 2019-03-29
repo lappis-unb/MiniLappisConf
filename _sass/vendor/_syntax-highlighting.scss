@@ -2,12 +2,14 @@
  * Syntax highlighting styles
  */
 .highlight {
-    background: #fff;
-    @extend %vertical-rhythm;
+  margin-left: -2.5rem;
+  width: calc(100% + 5rem);
+  padding: 2.5rem;
+  background: $c__light-grey;
 
-    .highlighter-rouge & {
-      background: #eef;
-    }
+  .highlighter-rouge & {
+    background: #eef;
+  }
 
     .c     { color: #998; font-style: italic } // Comment
     .err   { color: #a61717; background-color: #e3d2d2 } // Error

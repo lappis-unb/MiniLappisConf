@@ -1,22 +1,15 @@
 ---
-layout: default
+layout: page
+title: MiniLappisConf
 ---
+
+## Introducão
 
 MiniLappisConf é um evento realizado semanalmente (segunda-feira, de 17h30 até
 18h30h) no laboratório Lappis para troca de conhecimento, divulgação,
 treinamento e experimentação.
 
-## Próximo evento
-
-### Segunda-feira, 18 de março de 2019, 17h30
-
-| Palestrante     | Tema                                            | Tipo     |
-| --------------- | ----------------------------------------------- | -------- |
-| Joenio Costa    | Relatório MiniLappisConf 2018                   | Palestra |
-| Joenio Costa    | 50 anos de Engenharia de Software               | Palestra |
-
-
-### Legenda
+## Legenda
 
 Nesse evento, a troca de conhecimentos ocorre por uma das seguintes formas:
 
@@ -35,8 +28,6 @@ como fazer um instrumento musical utilizando legumes até a criação de jogos.
 Veja a lista de <a href="passados">eventos passados</a> e
 a agenda dos <a href="agenda">próximos eventos</a>.
 
-### Deseja contribuir? Quer palestrar?
 
-Envie um pull-request ou abra uma issue no
-repositório do evento
-[https://github.com/lappis-unb/minilappisconf](https://github.com/lappis-unb/minilappisconf)
+
+
