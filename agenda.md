@@ -1,5 +1,5 @@
 ---
-title: próximos eventos
+title: Próximos eventos
 ---
 
 ## Abril 2019
@@ -28,10 +28,11 @@ title: próximos eventos
 | Joenio Costa                                   | IndieWeb: Retomando a Web descentralizada        | Palestra |
 | Joenio Costa                                   | Sustentabilidade técnica de software acadêmico   | Palestra |
 | Pablo                                          | Jandig e AR na Web                               | Palestra |
-| Jackson - CGEE (Centro de gestão e estudos estratégicos)    de grafos para entender a pesuisa no Brasil    | Palestra |
+| Jackson - CGEE (Centro de gestão e estudos estratégicos) |  Uso  de grafos para entender a pesquisa no Brasil    | Palestra |
 | Christian                                      | ???                                              | Palestra |
 | Leonardo Gomes                                 | ???                                              | Palestra |
 | Lucas Kanashiro                                | ???                                              | Palestra |
+
 ## Descrição
 
 | Tema                                           | Descrição                                       |
