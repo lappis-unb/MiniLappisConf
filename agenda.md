@@ -1,16 +1,6 @@
 ---
-title: Próximos eventos
+# Próximos eventos
 ---
-
-## Março 2019
-
-### Segunda-feira, 25 de março de 2019, 17h30
-
-| Palestrante                  | Tema                                            | Tipo     |
-| ---------------------------- | ----------------------------------------------- | -------- |
-| Lucas Martins & Arthur Assis | SMI - Sistema de Monitoramento de Insumos       | Exposição|
-| Arthur Temporim              | Dred - Juiz de EPs                              | Palestra |
-| Roberto Baptista                      | EDUBOT 2019                                     | Exposiço |
 
 ## Abril 2019
 
@@ -20,6 +10,13 @@ title: Próximos eventos
 | --------------- | ----------------------------------------------- | -------- |
 | Jackson Maia - CGEE (Centro de gestão e estudos estratégicos)  | Uso de grafos para entender a pesquisa no Brasil   | Palestra |
 | ???             | ???                                             | Palestra |
+
+### Segunda-feira, 25 de março de 2019, 17h30
+
+| Palestrante                  | Tema                                            | Tipo     |
+| ---------------------------- | ----------------------------------------------- | -------- |
+| ???                          | ????                                            | Palestra |
+
 
 ## Backlog
 
