@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "Epic 1"
-date:   2018-03-26 17:00:00
+data: "26 de março de 2018, 17h"
+hora: ""
 categories: minilappisconf
 ---
 
