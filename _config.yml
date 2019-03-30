@@ -17,7 +17,7 @@ exclude: [_site, CHANGELOG.md, LICENSE, README.md]
 sass:
   style: compressed
 
-plugins:
-  - jemoji
+plugins: [jemoji, jekyll-youtube]
+
 
 
