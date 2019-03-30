@@ -245,6 +245,7 @@ DEPENDENCIES
   github-pages
   jekyll (~> 3.7.0)
   jekyll-feed (~> 0.6)
+  jemoji
 
 RUBY VERSION
    ruby 2.5.3p105
