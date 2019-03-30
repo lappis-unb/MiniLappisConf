@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Epic 14"
+data: "25 de junho de 2018, 17h"
+horas: ""
+categories: minilappisconf
+---
+
+### Segunda-feira, 25 de junho de 2018, 17h
+
+| Palestrante     | Tema                                    | Duração |
+| --------------- | --------------------------------------- | ------- |
+| Bruna Moreira   | Gamificação no EJ                       | 30 min  |

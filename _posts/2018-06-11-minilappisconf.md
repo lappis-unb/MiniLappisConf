@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Epic 12"
+data: "11 de junho de 2018, 17h"
+horas: ""
+categories: minilappisconf
+---
+
+### Segunda-feira, 11 de junho de 2018, 17h
+
+| Palestrante     | Tema                                    | Duração |
+| --------------- | --------------------------------------- | ------- |
+| Heloise Cullen  | Design e Usabilidade [slides (pdf)](slides/Heloise_Design_Interacao_Usabilidade.pdf) | 30 min  |
+| Luan            | Pandocker                               | 30 min  |
+| Orc'estra       | Gamificação                             | 30 min  |
+| Henrique Parra  | Co-produção de TICs com o Estado [slides (pdf)](slides/Apresentacao_Henrique_Parra_Parra_PPT_DEFESA.odp)       | 30 min  |

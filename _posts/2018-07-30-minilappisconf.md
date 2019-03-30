@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Epic 19"
+data: "30 de julho de 2018, 17h"
+horas: ""
+categories: minilappisconf
+---
+
+### Segunda-feira, 30 de julho de 2018, 17h
+
+| Palestrante     | Tema                                                                | Duração |
+| --------------- | ------------------------------------------------------------------- | ------- |
+| Andrés          | Cuidando e Monitorando: ferramentas livres para engajamento cidadão | 20 min  |
+| Tarciso         | Análise de Dados a serviço do eleitor                               | 20 min  |
+| Saulo           | Ferramenta de gestão regulatória                                    | 20 min  |

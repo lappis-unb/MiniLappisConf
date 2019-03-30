@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Epic X
+title: Epic 32
 data: "08 de abril de 2019, 17h30"
 hora: ""
 tags:

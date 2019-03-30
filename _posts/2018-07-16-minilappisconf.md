@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Epic 17"
+data: "16 de julho de 2018, 17h"
+horas: ""
+categories: minilappisconf
+---
+
+### Segunda-feira, 16 de julho de 2018, 17h
+
+**ressaca da micro-férias do laboratório lappis**

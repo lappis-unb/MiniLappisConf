@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Epic 26"
+data: "17 de setembro de 2018, 17h30"
+horas: ""
+categories: minilappisconf
+---
+
+### Segunda-feira, 17 de setembro de 2018, 17h30
+
+| Palestrante        | Tema                                     |    Tipo   |
+| ------------------ | ---------------------------------------- | -------   |
+| Bruna Moreira      | Molduras de Papel                        | Workshop  |

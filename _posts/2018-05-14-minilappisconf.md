@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Epic 8"
+data: "14 de maio de 2018, 17h"
+horas: ""
+categories: minilappisconf
+---
+
+### Segunda-feira, 14 de maio de 2018, 17h
+
+| Palestrante     | Tema                                    | Duração |
+| --------------- | --------------------------------------- | ------- |
+| Heloise Cullen  | Net Art                                 | 30 min  |
+| Arthur Temporim | Conhecimento empírico em Arch Linux [slides (pdf)](slides/arch/archLinux.pdf) | 30 min  |
+| Vitor Falcão    | CTF - Hack the world                    | 30 min  |
+| Arthur Jahn     | NGINX e domínios mútiplos               | 30 min  |

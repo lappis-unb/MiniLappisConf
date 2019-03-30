@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Epic 30"
+data: "15 de outubro de 2018, 17h30h"
+horas: ""
+categories: minilappisconf
+---
+
+### Segunda-feira, 15 de outubro de 2018, 17h30
+
+| Palestrante     | Tema                                            | Tipo     |
+| --------------- | ----------------------------------------------- | -------- |
+| Arthur Temporim | RASA outside in                                 | Workshop |
+| Fabio Mendes    | #TaRepreendido                                  | Palestra |

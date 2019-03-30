@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Epic 15"
+data: "02 de julho de 2018, 17h"
+horas: ""
+categories: minilappisconf
+---
+
+### Segunda-feira, 02 de julho de 2018, 17h
+
+**atividades do lappis canceladas neste dia por conta do jogo do brasil na copa**

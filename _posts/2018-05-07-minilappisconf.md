@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Epic 7"
+data: "07 de maio de 2018, 17h"
+horas: ""
+categories: minilappisconf
+---
+
+### Segunda-feira, 07 de maio de 2018, 17h
+
+| Palestrante     | Tema                                    | Duração |
+| --------------- | --------------------------------------- | ------- |
+| Henrique Campos | Roasting Unity                          | 30 min  |
+| Luciano Prestes | Blender                                 | 30 min  |
+| Matheus Faria   | Unity                                   | 30 min  |

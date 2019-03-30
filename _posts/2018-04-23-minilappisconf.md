@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Epic 5"
+data: "23 de abril de 2018, 17h"
+horas: ""
+categories: minilappisconf
+---
+
+### Segunda-feira, 23 de abril de 2018, 17h
+
+| Palestrante     | Tema                                    | Duração |
+| --------------- | --------------------------------------- | ------- |
+| Jonathan Moraes | Siltzkey                                | 60 min  |
+
+

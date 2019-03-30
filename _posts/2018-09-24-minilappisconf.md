@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Epic 27"
+data: "24 de setembro de 2018, 17h30"
+horas: ""
+categories: minilappisconf
+---
+
+### Segunda-feira, 24 de setembro de 2018, 17h30
+
+Não teremos evento neste dia por conta da semana universitária.

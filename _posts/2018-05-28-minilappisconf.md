@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Epic 10"
+data: "28 de maio de 2018, 17h"
+horas: ""
+categories: minilappisconf
+---
+
+### Segunda-feira, 28 de maio de 2018, 17h
+
+**evento cancelado por conta da greve dos combustíveis**

@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Epic 25"
+data: "10 de setembro de 2018, 17h"
+horas: ""
+categories: minilappisconf
+---
+
+### Segunda-feira, 10 de setembro de 2018, 17h
+ 
+| Palestrante        | Tema                                     |    Tipo   |
+| ------------------ | ---------------------------------------- | -------   |
+| Victor Navarro     | Git para não-devs                        | Palestra  |
+| Joenio Costa       | Gerenciando senhas com GnuPG [slides](http://joenio.me/gnupg) | Palestra  |
