@@ -8,13 +8,9 @@ permalink: /backlog/
 
 | Palestrante                                    | Tema                                             | Tipo     |
 | ---------------------------------------------- | ------------------------------------------------ | -------- |
-| Arthur Temporim                                | Dredd - Juiz de EPs                              | Exposição |
+| Pablo                                          | Jandig e AR na Web                               | Palestra |
 | Guilherme Baufaker Rego                        | Containers, Service Mesh, Istio e Kiali          | Palestra |
 | [Sônia Paiva](https://www.facebook.com/ltcunb) | Arte + tecnologia                                | Palestra |
-| Joenio Costa                                   | IndieWeb: Retomando a Web descentralizada        | Palestra |
-| Joenio Costa                                   | Sustentabilidade técnica de software acadêmico   | Palestra |
-| Pablo                                          | Jandig e AR na Web                               | Palestra |
-| Jackson - CGEE (Centro de gestão e estudos estratégicos) |  Uso  de grafos para entender a pesquisa no Brasil    | Palestra |
 | Christian                                      | ???                                              | Palestra |
 | Leonardo Gomes                                 | ???                                              | Palestra |
 | Lucas Kanashiro                                | ???                                              | Palestra |
@@ -23,11 +19,6 @@ permalink: /backlog/
 
 | Tema                                           | Descrição                                       |
 | ---------------------------------------------- | ----------------------------------------------- |
-| SMI - Sistema de Monitoramento de Insumos      | O SMI (Sistema de Monitoramento de Insumos) consiste em uma aplicação web desenvolvida para auxiliar o monitoramento dos insumos importantes para a Universidade de Brasília. Nesta exposição será apresentada a sua utilização na construção de um sistema para gestão de eficiênia energética, monitorando o abastecimento e consumo da energia elétrica de toda a UnB. |
-| Dredd - Juiz de EPs                            | Um software para auxiliar monitores e professores na aplicação e gerenciamento de Exercícios Programa da disciplina de Orientação à Objetos.|
-| Uso de grafos para entender a pesuisa no Brasil | Membro do corpo tecnico do CGEE apresentará o uso de grafos para entender a pesquisa no Brasil
 | Containers, Service Mesh, Istio e Kiali        | ???                                             |
 | Arte + tecnologia                              | ???                                             |
-| IndieWeb: Retomando a Web descentralizada      | ???                                             |
-| Sustentabilidade técnica de software acadêmico | ???                                             |
-| Jandig e AR na Web                             | A Utilização de tecnologias abertas para criação de AR com tecnologias de programação web e PWA|
+| Jandig e AR na Web                             | ???                                             |
