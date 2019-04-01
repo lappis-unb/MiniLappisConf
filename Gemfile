@@ -6,6 +6,5 @@ group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.6"
   gem "github-pages"
   gem 'jemoji'
-  gem "jekyll-youtube"
   gem 'jekyll-picture-tag', git: 'https://github.com/robwierzbowski/jekyll-picture-tag/'
 end
