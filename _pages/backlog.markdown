@@ -14,6 +14,7 @@ permalink: /backlog/
 | Christian                                      | ???                                              | Palestra |
 | Leonardo Gomes                                 | ???                                              | Palestra |
 | Lucas Kanashiro                                | ???                                              | Palestra |
+|Arthur Diniz                                | Cansei de receber emails da infra, como se precaver                                      | Palestra |
 
 ## Descrição
 
