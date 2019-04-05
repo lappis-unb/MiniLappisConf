@@ -14,7 +14,7 @@ permalink: /backlog/
 | Christian                                      | ???                                              | Palestra |
 | Leonardo Gomes                                 | ???                                              | Palestra |
 | Lucas Kanashiro                                | ???                                              | Palestra |
-|Arthur Diniz                                | Cansei de receber emails que a infra caiu, como se precaver                                      | Palestra |
+|Arthur Diniz                                | Infra service check, como se precaver de downtimes                                    | Palestra |
 |Arthur Diniz                                |     Subindo um docker com nginx, webapp e cetificado SSL                             | Palestra |
 
 ## Descrição
