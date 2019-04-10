@@ -25,10 +25,9 @@ permalink: /backlog/
 
 | Tema                                           | Descrição                                       |
 | ---------------------------------------------- | ----------------------------------------------- |
-| MariaLab e Consul Brasil | ??? |
-| Bancada Ativista e LabHacker | ??? |
-| Experiências com techs de e-democracia no ParticipaLab/Madrid | ??? |
-| Consul e Empurrando Juntas | ??? |
+| MariaLab e Consul Brasil | Essa palestra abordará como a desigualdade de genêro afeta as techs e o que fazer para equilibrar esse jogo |
+| Bancada Ativista e LabHacker | Oportunidades de e-democracia no contexto de um mandato legislativo |
+| Experiências com techs de e-democracia no ParticipaLab/Madrid: Consul e Empurrando Juntas | Serão apresentados 4 cases de tecnologias desenvolvidas em laboratórios de e-democracia |
 | Infra service check, como se precaver de downtimes | ??? |
 | Subindo um docker com nginx, webapp e cetificado SSL | ??? |
 | Commit-helper | O commit helper e um programa em python que ajuda na escrita de commits seguindo convenções |
