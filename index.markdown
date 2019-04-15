@@ -9,6 +9,22 @@ MiniLappisConf é um evento realizado semanalmente (segunda-feira, de 17h30 até
 18h30h) no laboratório Lappis para troca de conhecimento, divulgação,
 treinamento e experimentação.
 
+## Próxima MiniLappisConf
+
+#### Segunda-feira, 15 de abril de 2019, 17h30, Tema especial: Tecnologias para e-democracia: participação social e questões de gênero
+
+### MariaLab e Consul Brasil
+Palestrante: **Vanessa Tonini**
+
+### Bancada Ativista e LabHacker
+Palestrante: **Pedro Markun**
+
+### Experiências com techs de e-democracia no ParticipaLab/Madrid
+Palestrantes: **Bruna Pinos, Matheus Miranda, Guilherme Lacerda**
+
+### Consul e Empurrando Juntas
+Palestrantes: **Ricardo Poppi**
+
 ## Legenda
 
 Nesse evento, a troca de conhecimentos ocorre por uma das seguintes formas:
