@@ -11,19 +11,17 @@ treinamento e experimentação.
 
 ## Próxima MiniLappisConf
 
-#### Segunda-feira, 15 de abril de 2019, 17h30, Tema especial: Tecnologias para e-democracia: participação social e questões de gênero
+#### Segunda-feira, 22 de abril de 2019, 17h30
 
-### MariaLab e Consul Brasil
-Palestrante: **Vanessa Tonini**
+### 50 anos de Engenharia de Software - Palestra
+Palestrante: **Joenio Costa**
 
-### Bancada Ativista e LabHacker
-Palestrante: **Pedro Markun**
+### Commit-helper - Exposição
+Palestrante: **Andre de Sousa**
 
-### Experiências com techs de e-democracia no ParticipaLab/Madrid
-Palestrantes: **Bruna Pinos, Matheus Miranda, Guilherme Lacerda**
+### Dive - Lighting talk
+Palestrante: **Pablo Diego Silva da Silva**
 
-### Consul e Empurrando Juntas
-Palestrantes: **Ricardo Poppi**
 
 ## Legenda
 
