@@ -1,0 +1,72 @@
+---
+layout: page
+title: MiniLappisConf
+---
+
+<h1>Introducão</h1>
+<p>MiniLappisConf é um evento realizado semanalmente (segunda-feira, de 17h30 até
+18h30h) no laboratório Lappis para troca de conhecimento, divulgação,
+treinamento e experimentação.</p>
+
+<h1>Próximas MiniLappisConf</h1>
+
+{% for post in site.posts  %}
+    {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
+    {% capture next_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}
+    {% if post.tags contains 'draft' %}
+        {% if forloop.first %}
+            <ul class="c-archives__list">
+        {% endif %}
+        <li class="c-archives__item">
+            <h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
+            <p>{{ post.data }}</p>
+        </li>
+    {% endif %}
+    {% if forloop.last %}
+        </ul>
+    {% endif %}
+{% endfor %}
+
+<h1>Legenda</h1>
+
+<p>Nesse evento, a troca de conhecimentos ocorre por uma das seguintes formas:</p>
+
+<table>
+    <tr>
+        <th>Tipo de interação</th>
+        <th>Descrição</th>
+        <th>Duraçãos</th>
+    </tr>
+    <tr>
+        <td>Lightning Talk</td>
+        <td>Conversa rápida sobre qualquer assunto</td>
+        <td>5 minutos</td>
+    </tr>
+    <tr>
+        <td>Exposição</td>
+        <td>Uma conversa um pouco mais demorada, apresentando uma variedade de conceitos de forma introdutória</td>
+        <td>15 minutos</td>
+    </tr>
+    <tr>
+        <td>Workshop</td>
+        <td>Uma conversa introduzindo diversos conceitos e apresentando alguma parte prática pros presentes</td>
+        <td>30 minutos</td>
+    </tr>
+    <tr>
+        <td>Palestra</td>
+        <td>Uma conversa que introduz vários conceitos, alguns de forma mais aprofundada, sem parte prática</td>
+        <td>30 minutos</td>
+      </tr>
+  </table>
+
+<br/>
+
+<p>É importante mencionar que apesar do Lappis ser um laboratório de
+desenvolvimento de software, estamos abertos aos mais diversos assuntos! Desde
+como fazer um instrumento musical utilizando legumes até a criação de jogos.</p>
+
+<p>Veja a lista de <a href="passados">eventos passados</a> e
+a agenda dos <a href="agenda">próximos eventos</a>.</p>
+
+
+
